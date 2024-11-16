@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Hardik Gauba  
 
-<!--
-**hardikgauba-CS/hardikgauba-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineering student based in the USA with a passion for:  
+- 🌐 Web Development: **Next.js** and **React.js**  
+- 📱 Mobile Development: **React Native**  
+- 💻 Programming: **Java**  
+- 🧪 Exploring Testing and Software Quality  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I love building innovative web and mobile solutions that solve real-world problems. Constantly learning and exploring new technologies, I thrive on turning ideas into impactful projects.  
+
+---
+
+## 💡 Skills  
+- **Frontend Development**: React.js, Next.js  
+- **Mobile Development**: React Native  
+- **Programming Languages**: Java  
+- **Testing**: Software testing and debugging  
+
+---
+
+## 📫 Let's Connect  
+- [LinkedIn](#)  
+- [GitHub](https://github.com/HardikGauba)  
+- Email: hardik.gauba@example.com  
